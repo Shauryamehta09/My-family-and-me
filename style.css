@@ -1,0 +1,36 @@
+body {
+	text-align: center;
+	background: linear-gradient(#00f2ff 0%, #0bff00 100%);
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#H1 {
+	font-size: 48px;
+	color: firebrick;
+	font-weight: 900;
+}
+
+#DAD {
+	font-size: 32px;
+	color: #341746;
+}
+
+#MOM {
+	font-size: 32px;
+	color: #341746;
+}
+
+#SHAURYA {
+	font-size: 32px;
+	color: #341746;
+}
+
+#ARYA {
+	font-size: 32px;
+	color: #341746;
+}
+
+#THNX {
+	font-size: 40px;
+	color: #ff0000;
+}
